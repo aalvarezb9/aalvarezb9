@@ -4,12 +4,12 @@
 **aalvarezb9/aalvarezb9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Morazan Project...
 - 🌱 I’m currently learning Cibersecurity, Angular, React-Native...
 - 💬 Ask me about Python, JavaScript, Data Structures and Algorithms...
 - 📫 How to reach me: email: anrealba9@gmail.com, instagram: aalvarezb9...
--->
+
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
