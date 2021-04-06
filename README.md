@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, JavaScript, Data Structures and Algorithms...
 - 📫 How to reach me: 
   - Email: anrealba9@gmail.com
-  - Instagram: aalvarezb9...
+  - Instagram: aalvarezb9
   
 ## Español
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Preguntame sobre Python, JavaScript, Algoritmos y Estructuras de Datos...
 - 📫 Cómo contactarme: 
   - Correo electrónico: anrealba9@gmail.com
-  - Instagram: aalvarezb9...
+  - Instagram: aalvarezb9
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
