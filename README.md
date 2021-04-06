@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-##English
+### English
 --
 - 🔭 I’m currently working on Morazan Project...
 - 🌱 I’m currently learning Cibersecurity, Angular, React-Native...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   - Email: anrealba9@gmail.com
   - Instagram: aalvarezb9...
   
-##Español
+### Español
 --
 - 🔭 Actualmente estoy trabajando en el Proyecto Morazán...
 - 🌱 Actualmente estoy aprendiendo Ciberseguridad, Angular, React-Native...
