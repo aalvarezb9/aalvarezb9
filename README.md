@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <p align='center'>
   <a href="https://github.com/aalvarezb9/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvarezb9&layout=compact&count_private=false&theme=vue-dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvarezb9&layout=compact&theme=vue-dark" />
 </a>
 </p>
