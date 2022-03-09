@@ -9,20 +9,22 @@ Here are some ideas to get you started:
 ## English
 
 - 🔭 I’m currently working on Morazan Project...
-- 🌱 I’m currently learning Cibersecurity, Angular, React-Native...
+- 🌱 I’m currently learning React, NodeJS, React-Native...
 - 💬 Ask me about Python, JavaScript, Data Structures and Algorithms...
+- ✨ I finished my Systems Engineering degree and I have a certificate in cybersecurity with a specialization in pentesting.
 - 📫 How to reach me: 
   - Email: anrealba9@gmail.com
-  - Instagram: aalvarezb9
+  - LinkedIn: https://www.linkedin.com/in/%C3%A1ngel-%C3%A1lvarez-2737181bb/
   
 ## Español
 
 - 🔭 Actualmente estoy trabajando en el Proyecto Morazán...
-- 🌱 Actualmente estoy aprendiendo Ciberseguridad, Angular, React-Native...
+- 🌱 Actualmente estoy aprendiendo React, NodeJS, React-Native...
 - 💬 Preguntame sobre Python, JavaScript, Algoritmos y Estructuras de Datos...
+- ✨ Terminé la carrera de Ingeniería en Sistemas y tengo un certificado en ciberseguridad con especilaidad en pentesting.
 - 📫 Cómo contactarme: 
   - Correo electrónico: anrealba9@gmail.com
-  - Instagram: aalvarezb9
+  - LinkedIn: https://www.linkedin.com/in/%C3%A1ngel-%C3%A1lvarez-2737181bb/
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
