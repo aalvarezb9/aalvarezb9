@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   - LinkedIn: https://www.linkedin.com/in/%C3%A1ngel-%C3%A1lvarez-2737181bb/
 
 <p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/aalvarezb9/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aalvarezb9&show_icons=true&theme=dark" />
 </a>
   
