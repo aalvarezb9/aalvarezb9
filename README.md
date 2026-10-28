@@ -27,6 +27,5 @@
     - LinkedIn: https://www.linkedin.com/in/%C3%A1ngel-%C3%A1lvarez-2737181bb/
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="48%" />
   <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="48%" />
 </p>
