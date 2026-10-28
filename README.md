@@ -26,13 +26,7 @@
     - Correo electrónico: anrealba9@gmail.com
     - LinkedIn: https://www.linkedin.com/in/%C3%A1ngel-%C3%A1lvarez-2737181bb/
 
-<p align='center'>
-  <a href="https://github.com/aalvarezb9/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aalvarezb9&show_icons=true&theme=dark" />
-</a>
-  
-<p align='center'>
-  <a href="https://github.com/aalvarezb9/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvarezb9&layout=compact&theme=vue-dark" />
-</a>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="48%" />
 </p>
