@@ -1,6 +1,6 @@
 # Angel Alvarez
 
-**Software Engineer · Backend & Cloud · TypeScript, Node.js, AWS**
+**Software Engineer · Backend & Cloud · TypeScript, Node.js, Python, Design Patterns, Software Architecture, AWS**
 
 I design and ship cloud-native backends, real-time systems and third-party integrations for SaaS products. 5+ years across customer-engagement SaaS, fintech, government systems and aerospace software. Remote, based in Honduras.
 
